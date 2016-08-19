@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialize a repository nothing phyisically happens to my file, it just sets up the directory to be ready to take commits. This is the very beginning of what I need to do to be able to use version control.

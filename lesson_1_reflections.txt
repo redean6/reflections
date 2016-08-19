@@ -1,0 +1,21 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduce?
+
+There are many lines of code that would be too hard to go over. Using the command line to compare two codes helps a lot with this. Finding the small differences in the code lines to help me narrow down the what could be the problem.
+
+When I tried to download one of the files my computer kept calling it corrupt and deleting it.
+
+
+Being able to access the entire history of my code will help me become a better programmer by giving me the freedom to try new things without worrying about completly ruining my code. If it doesn't work I can just go back to the old.
+
+
+With manual commits, I like that I can choose what saves. It allows me to understand clear differences between the pages I created. I fear that if I had it automatically save I wouldn't be able to follow what is going on.
+
+Git allows you to save multiple files in one commit because often code is seperated amongst pages. Google Docs is usally a single file anyway.
+
+It is easy to compare to different commits using Git Bash. Log to bring up all the commits and diff to see the difference.
+
+*The clone did not have all the files I needed*
+
+Using version control I can be confident that if I mess something up in my code that I can go back to an older version. I can also find out if it is the code I add or if it was just a simple mistake on my part.
+
+I am excited to use git to compare older versions and have the ability to feel free while writing code.
