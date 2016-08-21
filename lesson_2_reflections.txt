@@ -24,3 +24,7 @@ Just like webdesign, it helps to draw it out with pencil and paper to visualize 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 We are able to make different branches to work on different ideas. Merging two branches together allows us to make add all the code together and have a large master version that we will soon share with the world.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Merging automatically is quick and easy, but there might be a few conflicts. Manually we can slow down and look at each conflict and fix it as we go.
