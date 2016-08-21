@@ -11,3 +11,16 @@ The working directory is just a place to keep all the folders and to save files 
 How can you use the staging area to make sure you have one commit per logical change?
 
 I could check past versions and make sure that I am making logical choices in my commits. If I do to little or to much I should be able to notice as I look over my commits.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Working with different branches lets me expeirment, work on different settings, or if I am just not sure what I am changing. Any time that I am working on something different.
+
+How do the diagrams help you visualize the branch structure?
+
+Just like webdesign, it helps to draw it out with pencil and paper to visualize what is going on.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We are able to make different branches to work on different ideas. Merging two branches together allows us to make add all the code together and have a large master version that we will soon share with the world.
